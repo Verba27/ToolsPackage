@@ -1,0 +1,9 @@
+"scopedRegistries": [
+   {
+     "name": "Main",
+     "url": "https://github.com/Verba27/ToolsPackage.git",
+     "scopes": [
+       "com.playtika"
+     ]
+   }
+ ]
